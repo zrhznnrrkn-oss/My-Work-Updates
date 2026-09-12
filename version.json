@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5",
-  "apkUrl": "https://raw.githubusercontent.com/zrhznnrrkn-oss/My-Work-Updates/main/MyWork-v0.5.apk",
+  "versionCode": 6,
+  "versionName": "0.6",
+  "apkUrl": "https://raw.githubusercontent.com/zrhznnrrkn-oss/My-Work-Updates/main/MyWork_v0.6.apk",
   "sha256": "",
-  "notes": "ทดสอบระบบอัปเดตอัตโนมัติจาก My Work v0.4 ไป v0.5"
+  "notes": "My Work v0.6 - เพิ่มระบบเช็กเอกสารลูกค้า"
 }
